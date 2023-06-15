@@ -17,7 +17,7 @@
 
 
   <h2>
-    🇰🇷 My SNS
+    🎵 My SNS
   </h2>
      <a href="https://www.instagram.com/haesu.tag/" target="_blank"> <img src="https://img.shields.io/badge/Instargram-E4405F?style=flat-square&logo=instagram&logoColor=white"/> </a> 
     <a href="https://www.facebook.com/profile.php?id=100004670375654" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/> </a>
