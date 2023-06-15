@@ -2,21 +2,30 @@
 
 <div align="center">
   <h2>
-    My Tech Stack
-    <br/>
-    <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=UIKit&logoColor=white"/> <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/> <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
+    📧 E-mail
   </h2>
+    sea15510@gmail.com
 
   <h2>
-    My SNS
-    <br/>
+    ⚒️ My Tech Stack ⚒️
+  </h2>
+    <a href="https://en.wikipedia.org/wiki/IOS" target="_blank"> <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white"/> </a>
+    <a href="https://en.wikipedia.org/wiki/Swift_(programming_language)" target="_blank"> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/> </a>
+    <a href="https://en.wikipedia.org/wiki/Cocoa_Touch" target="_blank"> <img src="https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=UIKit&logoColor=white"/> </a>
+    <a href="https://en.wikipedia.org/wiki/Xcode" target="_blank"> <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/> </a>
+    <a href="https://en.wikipedia.org/wiki/GitHub" target="_blank"> <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/> </a>
+
+
+  <h2>
+    🇰🇷 My SNS
+  </h2>
      <a href="https://www.instagram.com/haesu.tag/" target="_blank"> <img src="https://img.shields.io/badge/Instargram-E4405F?style=flat-square&logo=instagram&logoColor=white"/> </a> 
     <a href="https://www.facebook.com/profile.php?id=100004670375654)" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/> </a>
      <a href="https://www.notion.so/tagplayground/2-IOS-8f334296c87545d3be824d0b9214b0f6?pvs=4" target="_blank"> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> </a>
-    
-  </h2>
+<br/>
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haesu&theme=dark&show_icons=true)
+
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHaesus&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=true)](https://hits.seeyoufarm.com)
 </div>
