@@ -2,11 +2,6 @@
 
 <div align="center">
   <h2>
-    📧 E-mail
-  </h2>
-    sea15510@gmail.com
-
-  <h2>
     ⚒️ My Tech Stack ⚒️
   </h2>
     <a href="https://en.wikipedia.org/wiki/IOS" target="_blank"> <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white"/> </a>
