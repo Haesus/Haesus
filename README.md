@@ -14,6 +14,7 @@
     🎵 My SNS
   </h2>
     <a href="https://www.notion.so/tagplayground/2-IOS-8f334296c87545d3be824d0b9214b0f6?pvs=4" target="_blank"> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> </a>
+    <a href="https://haesus.github.io/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
     <a href="https://www.instagram.com/haesu.tag/" target="_blank"> <img src="https://img.shields.io/badge/Instargram-E4405F?style=flat-square&logo=instagram&logoColor=white"/> </a> 
 <br/>
 
