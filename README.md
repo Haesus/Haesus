@@ -4,18 +4,18 @@
   <h2>
     ⚒️ My Tech Stack ⚒️
   </h2>
-    <a href="https://en.wikipedia.org/wiki/IOS" target="_blank"> <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white"/> </a>
-    <a href="https://en.wikipedia.org/wiki/Swift_(programming_language)" target="_blank"> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/> </a>
-    <a href="https://en.wikipedia.org/wiki/Cocoa_Touch" target="_blank"> <img src="https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=UIKit&logoColor=white"/> </a>
-    <a href="https://en.wikipedia.org/wiki/GitHub" target="_blank"> <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/> </a>
+    <a href="https://en.wikipedia.org/wiki/IOS" target="_blank"> <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/></a>
+    <a href="https://en.wikipedia.org/wiki/Swift_(programming_language)" target="_blank"> <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/></a>
+    <a href="https://en.wikipedia.org/wiki/Cocoa_Touch" target="_blank"> <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=UIKit&logoColor=white"/></a>
+    <a href="https://en.wikipedia.org/wiki/GitHub" target="_blank"> <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"/></a>
 
 
   <h2>
     🎵 My SNS
   </h2>
-    <a href="https://tagplayground.notion.site/74660143087c4bd6a4d55eb939807adb?pvs=4" target="_blank"> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> </a>
-    <a href="https://haesus.github.io/"><img src="https://img.shields.io/badge/GitBlog-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-    <a href="https://www.instagram.com/haesu.tag/" target="_blank"> <img src="https://img.shields.io/badge/Instargram-E4405F?style=flat-square&logo=instagram&logoColor=white"/> </a> 
+    <a href="https://tagplayground.notion.site/74660143087c4bd6a4d55eb939807adb?pvs=4" target="_blank"> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
+    <a href="https://haesus.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitBlog-181717?style=flat&logo=GitHub&logoColor=white"/></a>
+    <a href="https://www.instagram.com/haesu.tag/" target="_blank"> <img src="https://img.shields.io/badge/Instargram-E4405F?style=flat&logo=instagram&logoColor=white"/></a> 
 <br/>
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haesu&theme=dark&show_icons=true)
