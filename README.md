@@ -4,7 +4,7 @@
   <h2>
     ⚒️ My Tech Stack ⚒️
   </h2>
-    <a href="https://en.wikipedia.org/wiki/IOS" target="_blank"> <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white"/></a>
+    <a href="https://en.wikipedia.org/wiki/IOS" target="_blank"> <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white"/></a>
     <a href="https://en.wikipedia.org/wiki/Swift_(programming_language)" target="_blank"> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/></a>
     <a href="https://en.wikipedia.org/wiki/Cocoa_Touch" target="_blank"> <img src="https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=UIKit&logoColor=white"/></a>
     <a href="https://en.wikipedia.org/wiki/GitHub" target="_blank"> <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
