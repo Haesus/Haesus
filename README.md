@@ -15,7 +15,6 @@
   </h2>
     <a href="https://tagplayground.notion.site/74660143087c4bd6a4d55eb939807adb?pvs=4" target="_blank"> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
     <a href="https://haesus.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitBlog-181717?style=flat&logo=GitHub&logoColor=white"/></a>
-    <a href="https://www.instagram.com/haesu.tag/" target="_blank"> <img src="https://img.shields.io/badge/Instargram-E4405F?style=flat&logo=instagram&logoColor=white"/></a> 
 <br/>
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haesu&theme=dark&show_icons=true)
