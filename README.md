@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0FADED&height=200&text=Welcome!&fontAlignY=30&desc=Tag&descAlign=65)
+![header](https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=200&text=Welcome!&fontAlignY=30&desc=Tag&descAlign=65)
 
 <div align="center">
   <h2>
@@ -22,7 +22,7 @@
 
   ---
   
-  ![Tag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haesus&theme=dark&show_icons=true)
+  ![Tag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haesus&theme=dark&show_icons=true&icon_color=sky)
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHaesus&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=true)](https://hits.seeyoufarm.com)
 </div>
