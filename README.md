@@ -23,9 +23,9 @@
   ---
   
   ![Tag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haesus&theme=dark&show_icons=true&icon_color=sky)
-  
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHaesus&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=true)](https://hits.seeyoufarm.com)
-</div>
+
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHaesus&count_bg=%2300BFFF&title_bg=%23555555&icon=&icon_color=%23000000&title=Visit&edge_flat=false)](https://hits.seeyoufarm.com)
+  </div>
 
 
 
