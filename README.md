@@ -32,7 +32,7 @@
 
   ---
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haesus&show_icons=true&bg_color=00000000&icon_color=2CB232&title_color=2CB232&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haesus&show_icons=true&bg_color=00000000&icon_color=2CB232&title_color=2CB232&layout=donut)
   
   ![Tag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haesus&show_icons=true&bg_color=00000000&icon_color=2CB232&title_color=2CB232)
   
