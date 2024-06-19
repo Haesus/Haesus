@@ -21,7 +21,7 @@
   <br>
   <a href="https://www.git-scm.com" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
   <a href="https://github.com" target="_blank"> <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
-  <a href="https://github.com" target="_blank"> <img src="https://img.shields.io/badge/MicrosoftAzure-0078D4?style=flat-square&logo=MicrosoftAzure&logoColor=white"/></a>
+  <a href="https://azure.microsoft.com/ko-kr" target="_blank"> <img src="https://img.shields.io/badge/MicrosoftAzure-0078D4?style=flat-square&logo=MicrosoftAzure&logoColor=white"/></a>
 
   <h2>
     🎵 My SNS
