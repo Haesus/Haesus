@@ -19,9 +19,11 @@
   <a href="https://developer.apple.com/kr/xcode" target="_blank"> <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white"/></a>
   <a href="https://code.visualstudio.com" target="_blank"> <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>
   <a href="https://dbeaver.io" target="_blank"> <img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white"/></a>
+  <br>
   <a href="https://www.git-scm.com" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
   <a href="https://github.com" target="_blank"> <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
-  
+  <a href="https://github.com" target="_blank"> <img src="https://img.shields.io/badge/MicrosoftAzure-0078D4?style=flat-square&logo=MicrosoftAzure&logoColor=white"/></a>
+
   <h2>
     🎵 My SNS
   </h2>
