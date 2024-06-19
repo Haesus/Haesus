@@ -15,7 +15,6 @@
   <h2>
     ⚒️ Tools ⚒️
   </h2>
-  
   <a href="https://developer.apple.com/kr/xcode" target="_blank"> <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white"/></a>
   <a href="https://code.visualstudio.com" target="_blank"> <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>
   <a href="https://dbeaver.io" target="_blank"> <img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white"/></a>
@@ -30,18 +29,15 @@
     <a href="https://haesus.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitBlog-181717?style=flat&logo=GitHub&logoColor=white"/></a>
     <a href="https://tagplayground.notion.site/74660143087c4bd6a4d55eb939807adb?pvs=4" target="_blank"> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/%ED%95%B4%EC%88%98-%EC%9C%A4-494653289/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white"/></a>
-<br/>
 
   ---
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haesus&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haesus&show_icons=true&bg_color=00000000&icon_color=2CB232&title_color=2CB232&layout=compact)
   
   ![Tag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haesus&show_icons=true&bg_color=00000000&icon_color=2CB232&title_color=2CB232)
-
+  
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHaesus&count_bg=%232CB232&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Visit&edge_flat=false)](https://hits.seeyoufarm.com)
-  </div>
-
-
+</div>
 
 <!--
 **Haesus/Haesus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
