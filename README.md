@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=2CB232&height=200&text=Welcome!&fontAlignY=30&desc=Tag&descAlign=65)
+![header](https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=200&text=Welcome!&fontAlignY=30&desc=Tag&descAlign=65)
 
 <div align="center">
   <h2>
@@ -32,11 +32,11 @@
 
   ---
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haesus&show_icons=true&bg_color=00000000&icon_color=2CB232&title_color=2CB232&layout=donut)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haesus&show_icons=true&bg_color=00000000&icon_color=00BFFF&title_color=00BFFF&layout=donut)
   
-  ![Tag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haesus&show_icons=true&bg_color=00000000&icon_color=2CB232&title_color=2CB232)
+  ![Tag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haesus&show_icons=true&bg_color=00000000&icon_color=00BFFF&title_color=00BFFF)
   
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHaesus&count_bg=%232CB232&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Visit&edge_flat=false)](https://hits.seeyoufarm.com)
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHaesus&count_bg=%2300BFFF&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Visit&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
 <!--
