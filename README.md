@@ -2,7 +2,7 @@
 
 <div align="center">
   <h2>
-    ⚒️ My Tech Stack ⚒️
+    🖥️ My Tech Stack 🖥️
   </h2>
   <a href="https://en.wikipedia.org/wiki/IOS" target="_blank"> <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white"/></a>
   <a href="https://en.wikipedia.org/wiki/Swift_(programming_language)" target="_blank"> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/></a>
