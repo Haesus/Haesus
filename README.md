@@ -24,6 +24,36 @@
   <a href="https://azure.microsoft.com/ko-kr" target="_blank"> <img src="https://img.shields.io/badge/MicrosoftAzure-0078D4?style=flat-square&logo=MicrosoftAzure&logoColor=white"/></a>
 
   <h2>
+    💼 Experience
+  </h2>
+  <div align="left">
+    
+  - **티제이팜(2024.07 ~ )**
+
+    iOS 앱 개발 & SE  
+    Objective-C → SwiftUI 마이그레이션
+    B2B iOS 앱 서비스 개발 <a href="https://en.wikipedia.org/wiki/IOS](https://www.medipana.com/medician/view.php?page=1&sch_menu=2&sch_gubun=50&news_idx=336492" target="_blank">관련자료
+
+  - **Kibwa Azure iOS 1기 수료**
+
+  - **멋쟁이사자처럼 iOS 앱 스쿨 2기 수료**
+
+  </div>
+
+  <h2>
+    🌍 Activities
+  </h2>
+  <div align="left">
+  
+  - **KWDC 오거나이저**  
+    Apple 최신 기술 학습 및 개발자 커뮤니티 운영, 발표/세션 기획 참여  
+
+  - **개인 블로그 & GitHub 활동**  
+    iOS 개발 학습 정리 및 사이드 프로젝트 공유  
+
+  </div>
+
+  <h2>
     🎵 My SNS
   </h2>
     <a href="https://haesus.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitBlog-181717?style=flat&logo=GitHub&logoColor=white"/></a>
@@ -36,20 +66,4 @@
   
   ![Tag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haesus&show_icons=true&bg_color=00000000&icon_color=00BFFF&title_color=00BFFF)
   
-  <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHaesus&count_bg=%2300BFFF&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Visit&edge_flat=false)](https://hits.seeyoufarm.com)-->
 </div>
-
-<!--
-**Haesus/Haesus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
