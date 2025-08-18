@@ -28,15 +28,15 @@
   </h2>
   <div align="left">
     
-  - **티제이팜(2024.07 ~ )**
+- **티제이팜 (2024.07 ~ )**
 
     iOS 앱 개발 & SE  
-    Objective-C → SwiftUI 마이그레이션
-    B2B iOS 앱 서비스 개발 <a href="https://en.wikipedia.org/wiki/IOS](https://www.medipana.com/medician/view.php?page=1&sch_menu=2&sch_gubun=50&news_idx=336492" target="_blank">관련자료
+    Objective-C → SwiftUI 마이그레이션  
+    B2B iOS 앱 서비스 개발 [관련자료](https://www.medipana.com/medician/view.php?page=1&sch_menu=2&sch_gubun=50&news_idx=336492)
 
-  - **Kibwa Azure iOS 1기 수료**
+- **Kibwa Azure iOS 1기 수료**
 
-  - **멋쟁이사자처럼 iOS 앱 스쿨 2기 수료**
+- **멋쟁이사자처럼 iOS 앱 스쿨 2기 수료**
 
   </div>
 
