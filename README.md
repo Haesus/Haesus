@@ -32,7 +32,7 @@
 
     iOS 앱 개발 & SE  
     Objective-C → SwiftUI 마이그레이션  
-    B2B iOS 앱 서비스 개발 [관련자료](https://www.medipana.com/medician/view.php?page=1&sch_menu=2&sch_gubun=50&news_idx=336492)
+    B2B iOS 앱 서비스 개발 [[관련자료]](https://www.medipana.com/medician/view.php?page=1&sch_menu=2&sch_gubun=50&news_idx=336492)
 
 - **Kibwa Azure iOS 1기 수료**
 
@@ -45,11 +45,10 @@
   </h2>
   <div align="left">
   
-  - **KWDC 오거나이저**  
-    Apple 최신 기술 학습 및 개발자 커뮤니티 운영, 발표/세션 기획 참여  
+  - **KWDC 오거나이저 (2024 ~ 현재)**  
 
-  - **개인 블로그 & GitHub 활동**  
-    iOS 개발 학습 정리 및 사이드 프로젝트 공유  
+    한국 애플 컨퍼런스인 **KWDC**(Korea World Developers Conference)를 개최하는 커뮤니티의 일원으로 활동 중.  
+    2024년 행사 운영에 참여했고, 2025년에도 오거나이저로 참여하며 Apple의 최신 기술 공유와 개발자 네트워킹에 기여.
 
   </div>
 
