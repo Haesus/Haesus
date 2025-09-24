@@ -45,7 +45,7 @@
   </h2>
   <div align="left">
   
-  - **KWDC 오거나이저 (2024 ~ 현재)**  
+  - **KWDC Organizer (2024 ~ 현재)**  
 
     한국 애플 컨퍼런스인 **KWDC**(Korea World Developers Conference)를 개최하는 커뮤니티의 일원으로 활동 중.  
     2024년 행사 운영에 참여했고, 2025년에도 오거나이저로 참여하며 Apple의 최신 기술 공유와 개발자 네트워킹에 기여.
