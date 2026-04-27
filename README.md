@@ -1,6 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=200&text=Welcome!&fontAlignY=30&desc=Tag&descAlign=65)
 
 <div align="center">
+  <p>
+    AI 서비스, 인앱 결제, 실시간 스트리밍, 모듈화 아키텍처까지 제품 운영에 필요한 iOS 영역을 구현하는 개발자
+  </p>
+
   <h2>
     🖥️ My Tech Stack 🖥️
   </h2>
@@ -23,9 +27,14 @@
   <br>
   <a href="https://www.git-scm.com" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
   <a href="https://github.com" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Github&logoColor=white"/></a>
+
+  <h2>
+    🛠️ Infra 🛠️
+  </h2>
   <a href="https://www.docker.com" target="_blank"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
   <a href="https://www.cloudflare.com" target="_blank"> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white"/></a>
   <a href="https://azure.microsoft.com/ko-kr" target="_blank"> <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTIyLjM3OSAyMy4zNDNhMS42MiAxLjYyIDAgMCAwIDEuNTM2LTIuMTR2LjAwMkwxNy4zNSAxLjc2QTEuNjIgMS42MiAwIDAgMCAxNS44MTYuNjU3SDguMTg0QTEuNjIgMS42MiAwIDAgMCA2LjY1IDEuNzZMLjA4NiAyMS4yMDRhMS42MiAxLjYyIDAgMCAwIDEuNTM2IDIuMTM5aDQuNzQxYTEuNjIgMS42MiAwIDAgMCAxLjUzNS0xLjEwM2wuOTc3LTIuODkyIDQuOTQ3IDMuNjc1Yy4yOC4yMDguNjE4LjMyLjk2Ni4zMm0tMy4wODQtMTIuNTMxIDMuNjI0IDEwLjczOWEuNTQuNTQgMCAwIDEtLjUxLjcxM3YtLjAwMWgtLjAzYS41NC41NCAwIDAgMS0uMzIyLS4xMDZsLTkuMjg3LTYuOWg0Ljg1M202LjMxMyA3LjAwNmMuMTE2LS4zMjYuMTMtLjY5NC4wMDctMS4wNThMOS43OSAxLjc2YTEuNzIyIDEuNzIyIDAgMCAwLS4wMDctLjAyaDYuMDM0YS41NC41NCAwIDAgMSAuNTEyLjM2Nmw2LjU2MiAxOS40NDVhLjU0LjU0IDAgMCAxLS4zMzguNjg0Ii8+PC9zdmc+"/></a>
+  <a href="https://www.home-assistant.io" target="_blank"> <img src="https://img.shields.io/badge/Self--Hosted-18BCF2?style=flat-square&logo=homeassistant&logoColor=white"/></a>
 
   <h2>
     💼 Experience
@@ -34,8 +43,8 @@
     
 - **예진(주) (2026.01 ~ 현재)**
 
-    ZeliAI iOS App 개발
-  - Tuist 기반 모듈 아키텍처 설계 (Feature / Domain / Core  구조)
+  - ZeliAI iOS App 개발
+  - Tuist 기반 모듈 아키텍처 설계 (Feature / Domain / Core 구조)
   - fastlane을 활용한 CI/CD 파이프라인 구축 및 배포 자동화
   - SSE(Server-Sent Events) 기반 AI 응답 스트리밍 처리 구현
   - REST API 연동 및 비동기 네트워크 처리 구조 설계
@@ -43,17 +52,29 @@
 
 - **티제이팜 (2024.07 ~ 2026.01)**
 
-    iOS 앱 개발 & SE
+  - iOS 앱 개발 & SE
   - Objective-C 기반 레거시 프로젝트를 SwiftUI 구조로 마이그레이션
   - 엔터프라이즈 계정을 활용한 사내 iOS 앱 배포 환경 구축 및 운영
   - B2B iOS 서비스 개발 및 고객사 요구사항 기반 기능 설계/구현
   - 기업 내부 유통 구조에 맞는 배포 및 업데이트 프로세스 설계
   - 외부 API 연동 및 서비스 안정성 개선
-    [[관련자료]](https://www.medipana.com/medician/view.php?page=1&sch_menu=2&sch_gubun=50&news_idx=336492)
+  - [관련자료](https://www.medipana.com/medician/view.php?page=1&sch_menu=2&sch_gubun=50&news_idx=336492)
 
 - **Kibwa Azure iOS 1기 수료**
 
 - **멋쟁이사자처럼 iOS 앱 스쿨 2기 수료**
+
+  </div>
+
+  <h2>
+    🚀 Projects
+  </h2>
+  <div align="left">
+
+- **Portfolio Management Server**
+  - [포트폴리오 사이트](https://www.younhaesu.com)
+  - 포트폴리오 웹 서비스를 직접 구현하고, 섹션 컴포넌트와 데이터 분리 구조로 콘텐츠를 관리할 수 있게 구성
+  - Cloudflare - NAS - Docker 기반 self-hosted 환경에 배포해 운영 중
 
   </div>
 
