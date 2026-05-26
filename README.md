@@ -2,7 +2,7 @@
 
 <div align="center">
   <p>
-    iOS 앱 개발을 중심으로 SwiftUI, UIKit, API 연동, 배포 자동화를 배우며 직접 구현 경험을 쌓고 있는 개발자
+    SwiftUI와 UIKit 기반 iOS 앱 개발을 중심으로, 배포 자동화와 Docker, Cloudflare, DNS 등 서비스 운영 인프라까지 경험을 넓혀가고 있는 개발자
   </p>
 
   <h2>
@@ -46,7 +46,9 @@
   - ZeliAI iOS App 개발
   - Tuist 기반 모듈 아키텍처 설계 (Feature / Domain / Core 구조)
   - fastlane을 활용한 CI/CD 파이프라인 구축 및 배포 자동화
+  - 인앱 결제 및 TestFlight 기반 검수/배포 흐름 구현
   - SSE(Server-Sent Events) 기반 AI 응답 스트리밍 처리 구현
+  - 디자인 시스템 적용 및 기능 단위 UI 구성
   - REST API 연동 및 비동기 네트워크 처리 구조 설계
   - 사용자 입력(텍스트/음성/STT/파일) 확장 기능 구현
 
@@ -91,10 +93,10 @@
   </div>
 
   <h2>
-    🎵 My SNS
+    🎵 Links
   </h2>
     <a href="https://haesus.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitBlog-181717?style=flat&logo=GitHub&logoColor=white"/></a>
-    <a href="https://tagplayground.notion.site/74660143087c4bd6a4d55eb939807adb?pvs=4" target="_blank"> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
+    <a href="https://www.younhaesu.com" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-1677FF?style=flat&logo=Safari&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/%ED%95%B4%EC%88%98-%EC%9C%A4-494653289/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+"/></a>
 
   ---
